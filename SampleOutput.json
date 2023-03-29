@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "UK's Truss refuses to rule out welfare cuts to fund economic plan - Reuters UK",
+      "description": "Britain's new Prime Minister <a href=\"https://www.reuters.com/world/uk/britains-weakened-truss-faces-fight-credibility-2022-10-04/\" target=\"_blank\">Liz Truss</a> triggered a fresh row in her party on Tuesday by suggesting that she could limit increases in ben…",
+      "url": "https://www.reuters.com/world/uk/uks-truss-refuses-rule-out-welfare-cuts-fund-economic-plan-2022-10-04/",
+      "urlToImage": "https://www.reuters.com/resizer/UsNL71oCGTTrGS_T9bl4HSvOju4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T6TUCH6FNZP6BAVOVPAPZHTCKM.jpg",
+      "publishedAt": "2022-10-04T11:55:00Z",
+      "content": "BIRMINGHAM, England Oct 4 (Reuters) - Britain's new Prime Minister Liz Truss triggered a fresh row in her party on Tuesday by suggesting that she could limit increases in benefit payments by less tha… [+4395 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Ben Church",
+      "title": "Protester tackled by LA Rams linebacker Bobby Wagner as he ran onto field - CNN",
+      "description": "A protester met the full-force of NFL linebacker Bobby Wagner on Monday night as the Los Angeles Rams hosted the San Francisco 49ers.",
+      "url": "https://www.cnn.com/2022/10/04/sport/bobby-wagner-nfl-protester-tackled-spt-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221004093639-bobby-wagner-pink-flare.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-10-04T11:38:00Z",
+      "content": "A protester met the full-force of NFL linebacker Bobby Wagner on Monday night as the Los Angeles Rams hosted the San Francisco 49ers.\r\nAt the end of the first half, a man ran onto the field at the Le… [+1720 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Elliot Smith",
+      "title": "Credit Suisse to remain 'under pressure' but analysts wary of Lehman comparison - CNBC",
+      "description": "Credit Suisse shares briefly sank to an all-time low on Monday while credit default swaps hit a record high.",
+      "url": "https://www.cnbc.com/2022/10/04/credit-suisse-to-remain-under-pressure-but-analysts-wary-of-lehman-comparison.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105154457-Credit_Suisse_.jpg?v=1664881786&w=1920&h=1080",
+      "publishedAt": "2022-10-04T11:09:46Z",
+      "content": "A Swiss flag flies over a sign of Credit Suisse in Bern, Switzerland\r\nCredit Suisse shares briefly sank to an all-time low on Monday while credit default swaps hit a record high, as the market's skit… [+6591 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Tierney Sneed, Hannah Rabinowitz, Holmes Lybrand",
+      "title": "Takeaways from the dramatic first day and opening statements of the Oath Keepers trial - CNN",
+      "description": "With the historic case that they had brought against Oath Keepers accused of plotting to attack the US Capitol on January 6, 2021, prosecutors framed up how the jury should think about the allegations with an hour-plus opening statement that kicked off the tr…",
+      "url": "https://www.cnn.com/2022/10/03/politics/takeaways-oath-keepers-sedition-opening-arguments-january-6-us-capitol/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/210122212754-oath-keepers-sidner.jpg?q=x_0,y_0,h_619,w_1100,c_fill/w_800",
+      "publishedAt": "2022-10-04T11:03:00Z",
+      "content": "With the historic case that they had brought against Oath Keepers accused of plotting to attack the US Capitol on January 6, 2021, prosecutors framed up how the jury should think about the allegation… [+14915 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WPBF West Palm Beach" },
+      "author": "Taylor Lang",
+      "title": "520K Floridians wait for power as rebuilding begins after Hurricane Ian - WPBF West Palm Beach",
+      "description": "About 520,000 homes and businesses in Florida were still without electricity Monday evening, down from a peak of 2.6 million. But that is still nearly the same amount of customers in all of Rhode Island.",
+      "url": "https://www.wpbf.com/article/ian-hurricane-florida-update/41494484",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1664881986.jpg?crop=1.00xw:0.832xh;0,0.0769xh&resize=1200:*",
+      "publishedAt": "2022-10-04T11:03:00Z",
+      "content": "Video above: The latest on the impacts of Ian\r\nNearly a week after Hurricane Ian smashed into Florida and carved a path of destruction that reached into the Carolinas, more than half a million statew… [+5269 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Andrea Vacchiano",
+      "title": "Four suspects busted for allegedly looting in Florida after Hurricane Ian - Fox News",
+      "description": "Four Floridians were busted for allegedly looting in Lee County, Florida, in the wake of Hurricane Ian. Their arrests come after officials warned about a \"zero-tolerance\" policy.",
+      "url": "https://www.foxnews.com/us/four-suspects-busted-allegedly-looting-florida-after-hurricane-ian",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/10/mugshots.jpg",
+      "publishedAt": "2022-10-04T10:50:13Z",
+      "content": "Florida sheriff's deputies arrested four suspected burglars who allegedly looted in the wake of Hurricane Ian, while many impacted Floridians struggle to recover from the Category 4 storm.\r\nOmar Meji… [+2373 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MarketWatch" },
+      "author": "Steve Goldstein",
+      "title": "Quite a pivot: Ray Dalio has just reversed his long-held stance on this key asset class. - MarketWatch",
+      "description": "Critical information for the U.S. trading day",
+      "url": "https://www.marketwatch.com/story/quite-a-pivot-ray-dalio-has-just-reversed-his-long-held-stance-on-this-key-asset-class-11664880002",
+      "urlToImage": "https://images.mktw.net/im-636497/social",
+      "publishedAt": "2022-10-04T10:39:00Z",
+      "content": "For years, Ray Dalio has made his disdain for cash abundantly clear.The founder and co-chief investment officer of Bridgewater Associates, the worlds largest hedge fund, told everyone who would liste… [+4857 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "Melissa Gaffney, Anthony Trotter, Hakyung Kate Lee",
+      "title": "North Korea fires ballistic missile over Japan - ABC News",
+      "description": "South Korea and the U.S. conducted a drill in response to the missile test.",
+      "url": "https://abcnews.go.com/International/north-korea-fires-apparent-ballistic-missile-japan-ministry/story?id=90941767",
+      "urlToImage": "https://s.abcnews.com/images/International/south-korea-missile-04-gty-llr-221003_1664845235925_hpMain_16x9_992.jpg",
+      "publishedAt": "2022-10-04T09:56:15Z",
+      "content": "NEW YORK, TOKYO and SEOUL -- North Korea fired a ballistic missile over Japan early on Tuesday morning, the Japanese Ministry of Defense said.\r\nSouth Korea and the U.S. conducted a joint strike packa… [+3952 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "John Fritze, USA TODAY",
+      "title": "Voting rights: Supreme Court to dig into claims of racial gerrymandering in Alabama - USA TODAY",
+      "description": "A challenge to Alabama's newly drawn congressional districts is one of several cases before the Supreme Court this term that deal with race.",
+      "url": "https://www.usatoday.com/story/news/politics/2022/10/03/supreme-court-merrill-milligan-racial-election/8118081001/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2022/09/30/USAT/dd2e68a5-336d-4acb-8fae-5034ac13d5ea-XXX_IMG_USP_NEWS_FLORIDA_PRI_1_1_4411851UN.JPG?auto=webp&crop=5890,3314,x0,y335&format=pjpg&width=1200",
+      "publishedAt": "2022-10-04T09:46:43Z",
+      "content": "WASHINGTON – Just over a year ago the Supreme Court walloped a key provision of the landmark 1965 Voting Rights Act, making it tougher to establish that a change to an election law – say, cutting bac… [+6727 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SciTechDaily" },
+      "author": null,
+      "title": "Immense Trail of Debris From DART Collision With Asteroid Dimorphos Captured by SOAR Telescope - SciTechDaily",
+      "description": "SOAR Telescope Catches Dimorphos’s Expanding Comet-like Tail After DART Impact The SOAR Telescope in Chile imaged the more than 10,000 kilometers long trail of debris blasted from the surface of Dimorphos two days after the asteroid was impacted by NASA’s DAR…",
+      "url": "https://scitechdaily.com/immense-trail-of-debris-from-dart-collision-with-asteroid-dimorphos-captured-by-soar-telescope/",
+      "urlToImage": "https://scitechdaily.com/images/Aftermath-of-DART-Collision-With-Dimorphos-Captured-by-SOAR-Telescope.jpg",
+      "publishedAt": "2022-10-04T08:30:09Z",
+      "content": "ByAssociation of Universities for Research in Astronomy (AURA)October 4, 2022\r\nAstronomers using the SOAR telescope in Chile captured the vast plume of dust and debris blasted from the surface of the… [+6600 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Hurricane Ian: Florida death toll rises as criticism mounts - BBC",
+      "description": "Florida officials are defending the timing of evacuation orders issued ahead of Hurricane Ian.",
+      "url": "https://www.bbc.com/news/world-us-canada-63120717",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1286D/production/_126958857_leecounty.jpg",
+      "publishedAt": "2022-10-04T06:56:23Z",
+      "content": "The death toll from Hurricane Ian has reportedly risen to nearly 100 in Florida as rescue personnel continue to search for survivors. \r\nOfficials in the US state have come under fire as critics alleg… [+4529 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Annie Linskey, Cleve R. Wootson Jr.",
+      "title": "Herschel Walker denies report that he paid for girlfriend's abortion - The Washington Post",
+      "description": "Walker’s denial came after the Daily Beast published a detailed account from an unnamed former girlfriend who said Walker encouraged her to have an abortion after she became pregnant while they were dating.",
+      "url": "https://www.washingtonpost.com/politics/2022/10/04/walker-senate-abortion-claim/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2WPPZHR7OEI63DDOSODL27GYEY.jpg&w=1440",
+      "publishedAt": "2022-10-04T06:30:54Z",
+      "content": "Herschel Walker, the Republican nominee for U.S. Senate in Georgia, on Monday denied a claim that he paid for a girlfriends abortion in 2009, saying in a televised interview on Fox News Channel that … [+3488 chars]"
+    },
+    {
+      "source": { "id": null, "name": "KABC-TV" },
+      "author": null,
+      "title": "Stockton, California police search for apparent serial killer tied to 6 murders, victims identified; $95,000 reward offered - KABC-TV",
+      "description": "While detectives continue to follow up on this series, they confirmed two additional cases from April 2021 that believed to be linked, with one tied to the Bay Area. There's now a reward of $95,000 for the arrest of the suspect.",
+      "url": "https://abc7.com/california-serial-killer-murders-stockton-victims-identities-homicides/12291936/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/12293120_stockton-serial-killer.jpg?w=1600",
+      "publishedAt": "2022-10-04T06:22:30Z",
+      "content": "STOCKTON, Calif. -- Six unprovoked murders of men ages 21 to 54 Since April 2021 appear to be the work of one person, according to police in Stockton, California.\r\nAuthorities are searching for a per… [+3058 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Ukraine forces break through Russian defences in south, advance in east - Reuters UK",
+      "description": "<a href=\"https://www.reuters.com/world/europe/grim-winter-looms-wartime-ukraine-braces-infrastructure-attacks-2022-10-04/\" target=\"_blank\">Ukrainian</a> forces have broken through <a href=\"https://www.reuters.com/world/europe/qa-will-russia-use-nuclear-weapon…",
+      "url": "https://www.reuters.com/world/ukraine-forces-break-through-russian-defences-south-advance-east-2022-10-03/",
+      "urlToImage": "https://www.reuters.com/resizer/GReeaTKD2up9CrK13NIaSU6F650=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/57C2QPSR6VLRBF56RYEUQLVAGU.jpg",
+      "publishedAt": "2022-10-04T05:58:00Z",
+      "content": "SVIATOHIRSK/KYIV, Oct 4 (Reuters) - Ukrainian forces have broken through Russian defences in the south of the country while expanding their rapid offensive in the east, seizing back more territory in… [+5597 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "49ers defeat Rams: Joe Buck and Troy Aikman react, praise Jimmy Garoppolo | SC with SVP - ESPN",
+      "description": "Joe Buck and Troy Aikman join SportsCenter with Scott Van Pelt to react to the San Francisco 49ers' win vs. the Los Angeles Rams on Monday Night Football.✔️S...",
+      "url": "https://www.youtube.com/watch?v=KX2yWcezfes",
+      "urlToImage": "https://i.ytimg.com/vi/KX2yWcezfes/hqdefault.jpg",
+      "publishedAt": "2022-10-04T03:40:33Z",
+      "content": null
+    },
+    {
+      "source": { "id": "independent", "name": "Independent" },
+      "author": "Graeme Massie",
+      "title": "Zelensky fires back at Elon Musk’s ‘Insane’ Twitter poll on Russia Ukraine peace - The Independent",
+      "description": "Country’s leader asked his 6.6m followers which version of billionaire did they ‘like more’",
+      "url": "https://www.independent.co.uk/news/world/americas/elon-musk-zelensky-ukraine-russia-b2191902.html",
+      "urlToImage": "https://static.independent.co.uk/2022/10/03/20/ZelenskymUSK.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2022-10-04T03:30:21Z",
+      "content": "Ukraines president Volodymyr Zelensky has fired back at Elon Musks Insane Twitter poll on Russia-Ukraine peace proposals.\r\nThe Tesla titan took to Twitter and proposed a string of ideas to solve the … [+2017 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Deadline" },
+      "author": "Armando Tinoco",
+      "title": "Billy Eichner Slams Twitter Trolls For ‘Bros’ Criticism, Promises To Tweet About Movie “Every Day” To “Spite” Them - Deadline",
+      "description": "Billy Eichner is on the defense after the underwhelming results of Bros at the box office. The actor is clapping back at Twitter trolls that are using the performance of the romantic comedy at the movie theaters to attack the quality of his work. “Box office,…",
+      "url": "https://deadline.com/2022/10/billy-eichner-slams-twitter-trolls-bros-criticism-1235134524/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2022/10/billy-eichner-bros-.jpg?w=1000",
+      "publishedAt": "2022-10-04T02:52:00Z",
+      "content": "Billy Eichner is on the defense after the underwhelming results of Bros at the box office. The actor is clapping back at Twitter trolls that are using the performance of the romantic comedy at the mo… [+2416 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Investor's Business Daily" },
+      "author": "Investor's Business Daily",
+      "title": "Dow Jones Surges 765 Points To Start New Stock Market Rally Attempt, What To Do Now - Investor's Business Daily",
+      "description": "Dow Jones futures were higher ahead of Tuesday's open. A rally attempt started Monday, as the Dow Jones industrials surged 765 points.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-starts-new-stock-market-rally-attempt-what-to-do-now/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2021/03/Stock-BullBearMarket-88-adobe.jpg",
+      "publishedAt": "2022-10-04T02:31:00Z",
+      "content": "Dow Jones futures were higher ahead of Tuesday's open. A new stock market rally attempt started Monday, as the Dow Jones Industrial Average surged 765 points.\r\nXStock Market Today\r\nOn Monday, the Dow… [+7411 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Yuri Kageyama",
+      "title": "Asian shares rise after 'relief rally' on Wall Street - The Associated Press",
+      "description": "TOKYO (AP) — Asian shares rose Tuesday, encouraged by a rally in U.S. shares after some weak economic data raised hopes that the Federal Reserve might ease away from aggressive interest rate hikes.",
+      "url": "https://apnews.com/66e10e016cdbeb07813c413f43c66986",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/56da6bfbe18547a680673b1d48aeb362/3000.jpeg",
+      "publishedAt": "2022-10-04T01:05:01Z",
+      "content": "TOKYO (AP) Asian shares rose Tuesday, encouraged by a rally in U.S. shares after some weak economic data raised hopes that the Federal Reserve might ease away from aggressive interest rate hikes.\r\nJa… [+4934 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "WATCH: Cardinals' Albert Pujols passes Babe Ruth for second on all-time RBI list with career home run No. 703 - CBS Sports",
+      "description": "Pujols now trails only Hank Aaron in the RBI category",
+      "url": "https://www.cbssports.com/mlb/news/watch-cardinals-albert-pujols-passes-babe-ruth-for-second-on-all-time-rbi-list-with-career-home-run-no-703/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/10/02/60cad001-9356-4250-a18c-5a6f913cfa7d/thumbnail/1200x675/432972d4625ce504a1f009286ffc3552/untitled-design-2022-10-02t150550-008.png",
+      "publishedAt": "2022-10-04T00:45:00Z",
+      "content": "Albert Pujols' milestone-rich final season in Major League Baseball continued apace on Monday, as he claimed sole possession of second place on the the all-time RBI list. Coming into Monday night's g… [+1173 chars]"
+    }
+  ]
+}
